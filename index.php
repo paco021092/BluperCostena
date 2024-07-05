@@ -19,7 +19,7 @@
     </head>
 
 
-    <body class="fixed-left">
+    <body class="fixed-left" style="background-color: red;">
         <!-- Begin page -->
         <!--<div class="accountbg"></div>-->
         <div id="stars"></div>
@@ -30,7 +30,7 @@
                 <div class="card-body">
 
                     <h3 class="text-center mt-0">
-                        <a href="index.html" class="logo logo-admin"><img src="blupper_templete/Dashor_v1.1.0/Admin/vertical/assets/images/logo.png" height="20" alt="logo"></a>
+                        <a href="index.html" class="logo logo-admin"><img src="Images/100Costena.jpeg" height="200" alt="logo"></a>
                     </h3>
 
                     <h6 class="text-center">Iniciar Sesion</h6>
@@ -66,13 +66,9 @@
                                 </div>
                             </div>
 
-                            <div class="form-group m-t-10 mb-0 row">
-                                <div class="col-sm-7 m-t-20">
-                                    <a href="pages-recoverpw.html" class="text-muted"><i class="mdi mdi-lock"></i> Forgot your password ?</a>
-                                </div>
-                                <div class="col-sm-5 m-t-20">
-                                    <a href="pages-register.html" class="text-muted"><i class="mdi mdi-account-circle"></i> Create an account ?</a>
-                                </div>
+                            <div>
+
+                                <center><b>Power By</b> <br><img src="Images/bluper.jpeg" height="100" alt="logo"></center>
                             </div>
                         </form>
                     </div>
