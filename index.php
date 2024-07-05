@@ -30,7 +30,7 @@
                 <div class="card-body">
 
                     <h3 class="text-center mt-0">
-                        <a href="index.html" class="logo logo-admin"><img src="Images/100Costena.jpeg" height="200" alt="logo"></a>
+                        <a href="index.html" class="logo logo-admin"><img src="Images/100Costena.png" height="200" alt="logo"></a>
                     </h3>
 
                     <h6 class="text-center">Iniciar Sesion</h6>
@@ -62,13 +62,13 @@
 
                             <div class="form-group text-center row m-t-20">
                                 <div class="col-12">
-                                    <button class="btn btn-danger btn-block waves-effect waves-light" type="submit">Log In</button>
+                                    <a class="btn btn-danger btn-block waves-effect waves-light" href="blupper_templete/Dashor_v1.1.0/Admin/vertical/tables-datatable.html">Log In</a>
                                 </div>
                             </div>
 
                             <div>
 
-                                <center><b>Power By</b> <br><img src="Images/bluper.jpeg" height="100" alt="logo"></center>
+                                <center><b>Power By</b> <br><img src="Images/Bluper.png" height="100" alt="logo"></center>
                             </div>
                         </form>
                     </div>
